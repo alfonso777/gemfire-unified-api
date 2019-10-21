@@ -1,2 +1,10 @@
-*.class
+.metals/*
+.idea/
+**/.*
+.**/
+project/target/
+project/project/**
+target/
 *.log
+*.out
+*.class
